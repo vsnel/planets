@@ -3,3 +3,5 @@ Mars is the fourth planet from the Sun.
 Mars is red.
 
 Mars is uninhabitable. For the time being.
+
+There is some water on Mars.
