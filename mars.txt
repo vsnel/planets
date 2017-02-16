@@ -5,3 +5,5 @@ Mars is red.
 Mars is uninhabitable. For the time being.
 
 There is some water on Mars.
+
+Do not go to Mars. It never ends well in the movies...
